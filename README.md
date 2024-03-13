@@ -30,9 +30,9 @@ The system allows users to search for books by title or book ID, providing conve
 
 ## How to Use
 
-1. **Compile**: Compile the Java source files using any Java compiler. For example:
+1. **Compile**: Compile the Java source files using any Java compiler. 
 
-2. **Run**: Run the compiled Java program:
+2. **Run**: Run the compiled Java program.
 
 3. **Follow Instructions**: Follow the on-screen instructions to perform various tasks such as adding books, adding users, displaying books, checking out books, returning books, and searching for books.
 
